@@ -4,8 +4,14 @@
 
 ## ✨ About me
 
-Fullstack Engineer with a strong hands-on execution background, shaped by solid NaN years of developing and automating critical systems within a military environment alongside private sector projects. Core experience focused on backend infrastructure using Python, Node.js, and PHP, specialized in HR operational workflow automation, payroll processing systems, and local network infrastructure management.
+☕️ Turning caffeine-based liquids into sequences of computer instructions for a total of NaN years.
 
+☢️ Dangerously refactoring legacy codebases under the mantra of *[U Can't Touch This by 
+M.C. Hammer](https://www.youtube.com/watch?v=otCpCn0l4Wo)* <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZyMjdvNHk2Znd6dWxsMGc3b2Z2M2R3cHZreXdtdGdiaXE2Nm11aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BXjqytvu9bKzCUHdzz/giphy.gif" width="20px" />
+
+🪖 Automating HR workflows systems inside military. For each floating-point errors, 50 push-ups to begin with.
+
+🏆 Forcing git push to master at Friday 4:59 PM, hoping for the best. Murphy's Law always wins.
 
 ---
 
