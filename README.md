@@ -367,7 +367,7 @@ Here's a detailed list of relevant frameworks, databases, libraries, tools, and 
         </td>
       </tr>
       <tr>
-        <th width="150px" rowspan="2" valign="top" align="left">Platform Engineering</th>
+        <th width="150px" rowspan="2" valign="top" align="left">Platform</th>
         <td width="250px" valign="top">Containerization</td>
         <td width="600px">
           <a href="https://docker.com">Docker</a>
