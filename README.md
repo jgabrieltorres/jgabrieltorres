@@ -340,18 +340,11 @@ Here's a detailed list of relevant frameworks, databases, libraries, tools, and 
   <table>
     <tbody>
       <tr>
-        <th width="150px" rowspan="4" valign="top" align="left">DevOps</th>
+        <th width="150px" rowspan="3" valign="top" align="left">DevOps</th>
         <td width="250px" valign="top">CI/CD</td>
         <td width="600px">
           <a href="https://gitlab.com">GitLab CI/CD</a>,
           <a href="https://github.com">GitHub Actions</a>
-        </td>
-      </tr>
-      <tr>
-        <td width="250px" valign="top">Managed Services</td>
-        <td width="600px">
-          <a href="https://github.com">GitHub</a>,
-          <a href="https://gitlab.com">Gitlab</a>
         </td>
       </tr>
       <tr>
