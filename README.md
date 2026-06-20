@@ -389,7 +389,7 @@ Here's a detailed list of relevant frameworks, databases, libraries, tools, and 
 > Feel free to get to shoot me a message! Here are some links you may get in touch with me.
 
 <p>
-  <a href="https://linkedin.com/in/joaogmtorres" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B66C2.svg?&style=for-the-badge" /></a>
-  <a href="https://github.com/joaogmtorres" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github-1F2329.svg?&style=for-the-badge" /></a>
-  <a href="https://t.me/joaogmtorres" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-189CDE.svg?&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/torresjg" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B66C2.svg?&style=for-the-badge" /></a>
+  <a href="https://github.com/torresjg" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github-1F2329.svg?&style=for-the-badge" /></a>
+  <a href="https://t.me/torresjg" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-189CDE.svg?&style=for-the-badge" /></a>
 </p>
