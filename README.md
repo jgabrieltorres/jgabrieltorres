@@ -4,14 +4,14 @@
 
 ## ✨ About me
 
-☕️ Turning caffeine-based liquids into sequences of computer instructions for a total of `NaN` years
+☕️ Turning caffeine-based liquids into sequences of computer instructions for a total of `NaN` years <img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif" height="18px" />
 
 ☢️ Dangerously refactoring legacy code quietly humming *[U Can't Touch This, 
-M.C. Hammer](https://www.youtube.com/watch?v=otCpCn0l4Wo)* <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZyMjdvNHk2Znd6dWxsMGc3b2Z2M2R3cHZreXdtdGdiaXE2Nm11aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BXjqytvu9bKzCUHdzz/giphy.gif" height="20px" />
+M.C. Hammer](https://www.youtube.com/watch?v=otCpCn0l4Wo)* <img src="https://emojis.slackmojis.com/emojis/images/1643515167/11827/vibing_cat.gif" height="18px" />
 
-🪖 Automating HR workflows inside military. Each floating-point error, 50 push-ups to begin with... 💪
+🪖 Automating HR workflows inside military. Each floating-point error, 50 push-ups to begin with... <img src="https://emojis.slackmojis.com/emojis/images/1643514922/9402/conceit.png" height="18px" />
 
-🏆 Challenging  Murphy's Law with `git push origin master --force` at Friday 4:59 PM <img src="https://media.tenor.com/6xcfcXMMccUAAAAC/deal-with.gif" height="20px" />
+🏆 Challenging  Murphy's Law with `git push origin master --force` at Friday 4:59 PM <img src="https://emojis.slackmojis.com/emojis/images/1683299683/65964/doge-no.gif" height="18px" />
 
 ---
 
